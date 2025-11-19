@@ -1,13 +1,5 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
 
 比亚迪
 王传福
@@ -17,14 +9,6 @@ DJI
 
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
 
 影之刃零
 梁其伟
@@ -52,14 +36,9 @@ bytedance
 特斯拉
 马斯克
 
-微软
-Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -73,11 +52,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -85,9 +59,6 @@ ai
 自动驾驶
 
 机器人
-
-国产
-中国
 
 美国
 日本
